@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #####################################################################
 ### Please set the paths accordingly. In case you don't have all  ###
 ### the listed folders, just keep that line commented out.        ###
